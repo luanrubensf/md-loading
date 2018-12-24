@@ -1,16 +1,22 @@
 {
   "name": "web-commons",
   "version": "0.0.1",
-  "description": "Hephaestus web commons",
+  "description": "Loadind componente for AngularJs based on Angular Material",
   "scripts": {
     "build": "rimraf dist && webpack --bail --progress --profile"
   },
   "repository": {
-    "type": "git"
+    "type": "git",
+    "url": "https://github.com/luanrubensf/md-loading.git"
   },
-  "main": "dist/web-commons.js",
+  "main": "dist/md-loading.js",
   "module": "src/index.js",
-  "author": "Luan Figueredo",
+  "author": "Luan Figueredo <luanrubensf@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "md-loading",
+    "loading"
+  ],
   "dependencies": {
     "angular": "^1.5.0",
     "lodash": "^4.17.5",

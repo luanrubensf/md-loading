@@ -1,7 +1,7 @@
 {
-  "name": "web-commons",
+  "name": "md-loading",
   "version": "0.0.1",
-  "description": "Loadind componente for AngularJs based on Angular Material",
+  "description": "Loading component for AngularJs based on Angular Material",
   "scripts": {
     "build": "rimraf dist && webpack --bail --progress --profile"
   },

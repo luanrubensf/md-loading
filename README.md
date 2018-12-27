@@ -1,5 +1,7 @@
 # md-loading
 
+[![Build Status](https://travis-ci.com/luanrubensf/md-loading.svg?branch=master)](https://travis-ci.com/luanrubensf/md-loading)
+
 This component creates a loading in the element that it is placed.
 
 ## How to import
